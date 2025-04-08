@@ -6,13 +6,6 @@ function App() {
   return (
     <div>
     {/* <MentalHealthRole/> */}
-
-
-
-
-
-
-    
     <LoginPage/>
     
     </div>
